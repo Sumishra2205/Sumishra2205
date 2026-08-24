@@ -337,9 +337,7 @@ Developed modular Python applications while focusing on object-oriented programm
 ## Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Sumishra2205/Sumishra2205/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
+  <img src="https://raw.githubusercontent.com/Sumishra2205/Sumishra2205/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
 
 ---
